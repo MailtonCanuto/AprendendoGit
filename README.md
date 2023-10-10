@@ -1,7 +1,7 @@
 # AprendendoGit
 
 <h2>1 - Instalação do executavel.</h2>
-<pre>https://git-scm.com/</pre>pre
+<pre>https://git-scm.com/</pre>
 <h2>2 - Configuração:</h2>
 <pre>2.1 - git config --global user.name "nome"
 2.2 - git config --global user.email "email"</pre>
