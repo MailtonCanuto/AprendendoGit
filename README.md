@@ -6,10 +6,8 @@
 2.2 - git config --global user.email "email"</pre>
 <h2>3 - Velificar se a configuração foi efetuada:</h2>
 <pre>3.1 - git config --list </pre>
-</p>
-
 
 # Clonando Repositorio
 
-<p><pre>git clone https://github.com/MailtonCanuto/AprendendoGit.git </pre></p>
+<pre>git clone https://github.com/MailtonCanuto/AprendendoGit.git </pre>
 
