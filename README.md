@@ -1,11 +1,11 @@
 # AprendendoGit
 
-<h2>1 - Instalação do executavel.</h2><br>
-<h2>2 - Configuração.</h2><br>
-<pre>2.1 - git config --global user.name "nome"<br>
-2.2 - git config --global user.email "email"</pre><br>
-<h2>3 - Velificar se a configuração foi efetuada:</h2><br>
-<pre>3.1 - git config --list </pre><br>
+<h2>1 - Instalação do executavel.</h2>
+<h2>2 - Configuração.</h2>
+<pre>2.1 - git config --global user.name "nome"
+2.2 - git config --global user.email "email"</pre>
+<h2>3 - Velificar se a configuração foi efetuada:</h2>
+<pre>3.1 - git config --list </pre>
 </p>
 
 
