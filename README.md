@@ -10,7 +10,6 @@
 
 
 # Clonando Repositorio
-<p>
-git clone https://github.com/MailtonCanuto/AprendendoGit.git <br>
 
-</p>
+<p>git clone https://github.com/MailtonCanuto/AprendendoGit.git </p>
+
