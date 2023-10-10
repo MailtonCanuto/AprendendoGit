@@ -11,5 +11,5 @@
 
 # Clonando Repositorio
 
-<p>git clone https://github.com/MailtonCanuto/AprendendoGit.git </p>
+<p><pre>git clone https://github.com/MailtonCanuto/AprendendoGit.git </pre></p>
 
